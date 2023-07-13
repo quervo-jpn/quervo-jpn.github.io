@@ -10,13 +10,14 @@ header {
     background-size:auto;
     font-size: 50px;
     font-family: 'Fasthand', cursive;
-    
+}
+.lang{
+    text-align: center;
+}
+main{
+    display: flex;
 }
 .programming{
-    background-color: #8B1874;
-}
-.headerandmain{
-    display: flex;
-
-
+    background-color: #B71375;
+    
 }
