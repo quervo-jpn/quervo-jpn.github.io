@@ -1,23 +1,41 @@
 *{
     margin: 0px;
     padding:0px;
-    
+    color:#797A7E;
 }
 header {
     text-align: center;
-    background-color: #8B1874;
-    color:#FC4F00;
+    background-color: #E0ECE4;
+    color:#797A7E;
     background-size:auto;
     font-size: 50px;
     font-family: 'Fasthand', cursive;
 }
 .lang{
     text-align: center;
-}
-main{
-    display: flex;
-}
-.programming{
-    background-color: #B71375;
     
+}
+.main{
+    display: flex;
+    padding: 0% 4%;
+    align-items:stretch;
+    
+}
+li{
+    list-style:none;
+    text-align: center;
+    
+}
+.divnazo{
+    display: flex;
+    width: 50%;
+}
+#profile-div{
+    background-color: #ABC4AA;
+    width: 50%;
+
+}
+#programmming{
+    width: 50%;
+    background-color: #F7F2E7;
 }
