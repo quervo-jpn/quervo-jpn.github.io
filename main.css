@@ -2,23 +2,26 @@
     margin: 0px;
     padding:0px;
     color:#797A7E;
+    transition: border-radius 0.3s; 
 }
-header {
+.header {
     text-align: center;
     background-color: #E0ECE4;
     color:#797A7E;
     background-size:auto;
     font-size: 50px;
     font-family: 'Fasthand', cursive;
+    border-radius: 120px;
 }
 .lang{
     text-align: center;
     
 }
 .main{
-    display: flex;
-    padding: 0% 4%;
+    display: flex;                       
     align-items:stretch;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Zen Kurenaido', sans-serif;
     
 }
 li{
@@ -33,9 +36,34 @@ li{
 #profile-div{
     background-color: #ABC4AA;
     width: 50%;
+    padding-right: 4%;
+    border-radius: 120px;
+    font-size: 28px;
 
 }
 #programming{
     width: 50%;
     background-color: #F7F2E7;
+    padding: 4%;
+    border-radius: 120px;
+}
+.cat{
+    width: 500px;
+    border-radius: 120px;
+}
+.mycat{
+    text-align: center;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Zen Kurenaido', sans-serif;
+    background-color: #E0ECE4;
+    border-radius: 120px;
+
+    
+}
+.profielen{
+    font-family: 'Lugrasimo', cursive;
+    
+}
+.catdescription{
+    
 }
