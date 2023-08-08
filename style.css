@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding:0px;
+    color:#797A7E;
+    transition: border-radius 0.3s; 
+}
+body{
+    background-color: #F7F2E7;
+    border-radius: 30px;
+}
+.header {
+    text-align: center;
+    background-color: #E0ECE4;
+    color:#797A7E;
+    background-size:auto;
+    font-size: 50px;
+    font-family: 'Fasthand', cursive;
+    border-radius: 120px;
+    margin: 10px;
+}
+.lang{
+    text-align: center;
+    
+}
+.main{
+    display: flex;                       
+    align-items:stretch;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Zen Kurenaido', sans-serif;
+    
+}
+li{
+    list-style:none;
+    text-align: center;
+    
+}
+.divnazo{
+    display: flex;
+    width: 50%;
+}
+.onhover-round{
+    border-radius: 20px;
+    margin: 10px;
+}
+.onhover-round:hover{
+    border-radius: 60px;
+}
+#profile-div{
+    background-color: #ABC4AA;
+    width: 50%;
+    padding-right: 4%;
+    
+    font-size: 28px;
+    padding: 60px 0px;
+
+}
+#programming{
+    width: 50%;
+    background-color: #f7eae7;
+    padding: 4%;
+}
+.cat{
+    width: 500px;
+}
+.mycat{
+    text-align: center;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Zen Kurenaido', sans-serif;
+    background-color: #E0ECE4;
+    
+    
+}
+.profielen{
+    font-family: 'Lugrasimo', cursive;
+    
+}
+.catdescription{
+    
+}
